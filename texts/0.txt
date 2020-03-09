@@ -1,0 +1,42 @@
+daniel kuc nowogard frida    4  1   14
+inform aty kainform atyka    9  14  6
+
+lnsvwx kna xodbloip akgna    12  14 19    (a+b)-1
+inform aty kainform atyka    9
+
+daniel kuc nowogard frida
+
+
+pierwsza kolumna to klucz, szukam w rzedzie zakodowanego znaku i lece na sama gore, tam jest odszyfrowana litera
+
+
+
+
+
+
+abcdefghijklmnopqrstuwvxyz
+bcdefghijklmnopqrstuwvxyz
+cdefghijklmnopqrstuwvxyz
+defghijklmnopqrstuwvxyz
+efghijklmnopqrstuwvxyz
+fghijklmnopqrstuwvxyz
+ghijklmnopqrstuwvxyz
+hijklmnopqrstuwvxyz
+ijklmnopqrstuwvxyz
+jklmnopqrstuwvxyz
+klmnopqrstuwvxyz
+lmnopqrstuwvxyz
+mnopqrstuwvxyz
+nopqrstuwvxyz
+opqrstuwvxyz
+pqrstuwvxyz
+qrstuwvxyz
+rstuwvxyz
+stuwvxyzabcdef
+tuwvxyz
+uwvxyz
+wvxyz
+vxyz
+xyz
+yz
+z
